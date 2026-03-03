@@ -116,6 +116,7 @@ TW_CUSTOM_CPU_TEMP_PATH := "/sys/class/thermal/thermal_zone17/temp"
 TW_NO_REBOOT_BOOTLOADER := true
 TW_NO_HAPTICS := true
 TW_HAS_DOWNLOAD_MODE := true
+TW_INCLUDE_FASTBOOTD := true
 TW_DEVICE_VERSION := GoRhanHee
 TARGET_RECOVERY_QCOM_RTC_FIX := true
 TW_BACKUP_EXCLUSIONS := /data/fonts
